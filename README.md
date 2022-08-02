@@ -6,5 +6,3 @@ Added a change, repo should build again.
 Added another change, should build again.
 
 Added another change, should build again.
-
-Added another change, should build again.
